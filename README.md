@@ -1,3 +1,22 @@
+username : priyanagare07.70a99f686f2b@agentforce.com
+password : Priya@07
+
+
+Fakt developer console madhe jaun
+ file -> open ->Entity Type (Classes)->SimpleContactManager  
+
+File -> Open -> Entity Type (Pages) -> QuickContactApp 
+
+He open krun thev ani baki khalchya steps vapr
+
+
+
+
+
+
+
+
+
 *SalesForce CC practical*🙏🏻
 
 Salesforce -> Setup 🛞 -> Developer Console 
